@@ -6,10 +6,11 @@ Some of you may know me as Mango!
 I am experienced in the following fields:
 - Luau/Lua
 - Node.js
-- Javascript (why)
+- Javascript
 - HTML
 - CSS
 - PHP
 
 # Who Am I
-I dunno, just someone who works at Project Furina :3
+I am the Leadership Council and the Lead of Project Nahida at Project Furina.
+I am also the Site Administrator at SCI - Portunus.
