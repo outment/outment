@@ -9,9 +9,15 @@ Some of you may know me as Mango!
 - Javascript
 - HTML
 - CSS
+- Java
 - PHP
 
 # Who Am I
 *These are the current positions that I hold:*
 - I am the Project Director Project Furina.
 - I am also the Site Administrator at SCI - Portunus.
+
+# My Projects
+*These are just a few of the Projects I've worked on.*
+- [Project Stelle](https://stelle.project-furina.xyz/)
+- [Project Robin](https://modrinth.com/mod/projectrobin)
