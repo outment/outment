@@ -14,8 +14,7 @@ Some of you may know me as Mango!
 
 # Who Am I
 *These are the current positions that I hold:*
-- I am the Project Director Project Furina.
-- I am also the Site Administrator at SCI - Portunus.
+- I am the Director of Project Nahida at Project Furina.
 
 # My Projects
 *These are just a few of the Projects I've worked on.*
