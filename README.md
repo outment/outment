@@ -19,5 +19,5 @@ Some of you may know me as Mango!
 # My Projects
 *These are just a few of the Projects I've worked on.*
 - ~~[Project Himeko](https://himeko.project-furina.com/)~~ Not yet active.
-- ~~[Project Stelle](https://stelle.project-furina.com/)~~ Not yet active.
+- [Project Furina](https://project-furina.com/)
 - [Project Robin](https://modrinth.com/mod/projectrobin)
